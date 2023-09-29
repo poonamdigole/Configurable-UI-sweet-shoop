@@ -1,0 +1,27 @@
+{
+    "title" : "Sweet Shoppy",
+    "description" : "Our Shoppy includes of Indian sweets. We're starting this amazing Indian Dessert recipes list with India's most famous and favorite dessert. Soft, spongy and melt in your mouth, sweets sre drenched in delicately flavored sugar syrup" ,
+    "theme" : {
+"primaryColor" : "#800060" ,
+"secondaryColor" : "#ff0080",
+"bgColor" : "#ff80bf"
+    },
+
+    "services" : [
+        {
+        "title" : "Rabri",
+    "description" : "Boiled condensed milk, sugar, spices and nuts." ,
+    "price" : 500
+} ,
+{
+    "title" : "Jalebi",
+"description" : "Dough fried in a coil shape dipped in sugar syrup, often taken with milk, tea, yogurt, or lassi." ,
+"price" : 300
+} ,
+{
+"title" : "Gulab Jamun",
+"description" : "Fried milk balls soaked in sweet syrup, such as rose syrup or honey." ,
+"price" : 500 
+} 
+  ]
+}
